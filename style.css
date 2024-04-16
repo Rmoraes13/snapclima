@@ -4,6 +4,7 @@
 }
 
 body {
+    background-image: url("https://source.unsplash.com/1600x900/?landscape");
     background: #f3f4fb;
     font-family: 'Inter', sans-serif;
     -webkit-font-smoothing: antialiased;
